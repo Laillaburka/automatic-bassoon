@@ -1,0 +1,10 @@
+/Workspace code; Features of the app
+/Home screen (Output "Welcome to MemoryLane" and Button to next screen ("Get started"))
+/If get started pushed "form profile" screen shows up; input name and form profile (Name, Age, Health condition, List of medications, Primary doctor number)
+/Primary doctor number is put on the doctor profile on the "Summary Screen"
+/If "set reminder btn pushed" go to "Reminder screen": To do List functions (name input, medication dosage input, time input, day input) - Output displayed on "Summary screen"
+/All reminders are displayed on the "Summary screen" with the name, medication dosage, time, day
+/Other features: Open doctor profile option on top of "summary screen" (Allow person to input name of doctor and phone number)
+/Other features: Image input (Input image of medication on "Reminder screen")
+/Other features: Reminders set off alarm and display on home screen "Time to take your medication!" followed by "Name input, medication dosage".
+/Other features: If reminder is clicked on home screen redirect to the MemoryLane App
